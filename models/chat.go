@@ -5,12 +5,12 @@ type Message struct {
 	Content string `json:"content"`
 }
 
-type ChatRequest struct {
+type RequestBody struct {
 	Model    string    `json:"model"`
 	Messages []Message `json:"messages"`
 }
 
-type ChatResponseChunk struct {
+type ResponseData struct {
 	Role      string `json:"role"`
 	Message   string `json:"message"`
 	CreatedAt string `json:"created"`
@@ -19,7 +19,7 @@ type ChatResponseChunk struct {
 	Model     string `json:"model"`
 }
 
-type ErrorResponseChunk struct {
+type ErrorResponseData struct {
 	Action string `json:"action"`
 	Status string `json:"status"`
 	Type   string `json:"type"`
