@@ -1,2 +1,2 @@
-Quack quack
-![DALL·E 2024-10-12 21 49 00 - A super simple, scratch-like drawing of a cute duck  The duck is minimalistic, with a yellow oval body, a simple orange beak, and stick-like legs  The](https://github.com/user-attachments/assets/61d3be20-50a8-4c4c-be87-227f1fbee74b)
+# Hey Duck!
+![heyduck](https://github.com/user-attachments/assets/500a9584-a5db-4835-9fe1-e96e4fd876fa)
