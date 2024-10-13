@@ -6,7 +6,7 @@ import (
 	"io"
 	"strings"
 
-	"github.com/bug-breeder/duckai/models"
+	"github.com/bug-breeder/gooseek/models"
 )
 
 // ProcessStream reads the streaming response and sends ResponseData to the provided channel.

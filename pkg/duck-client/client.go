@@ -8,7 +8,7 @@ import (
 	"net/http"
 	"os"
 
-	"github.com/bug-breeder/duckai/models"
+	"github.com/bug-breeder/gooseek/models"
 )
 
 // Client represents the DuckDuckGo Chat API client.
